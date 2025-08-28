@@ -41,7 +41,7 @@ Additionally, create an architectural diagram of the ETL pipeline as requested b
 ## Group Assignment 
 For this, you need to work in groups of three (you will be shared into groups). Design a Powerpoint with any insight that you got from the Posey database tables, do an exploratory analysis on the tables and come up with a Presentation for your manager. Give your group a name and choose a single person github account to document your insights (as images and text) and also to upload your powerpoint files (all members are to contribute to the repository, through pull requests i.e each member should have different branches) 
 
-Kindly drop your name, email(used to register for the Bootcamp) and github account username on this [link](https://docs.google.com/forms/d/1HvIx83UFEkVX1Uqnddk3_Tg0IkpvvGk4DJaQY8YjUgA/edit)
+Kindly drop your name, email(used to register for the Bootcamp) and github account username on this [link](https://github.com/Idowuilekura/cde_linux_git_assignment-?tab=readme-ov-file)
 
 **N.B** Both Personal and Group Assignment are due in 1 week (the 5th of September 2024)
 Submit the personal assignment(for the email section, use the Email used to register for the Bootcamp) with this [Assignment Submission Link](https://docs.google.com/forms/d/15Gm-56XhsAvzed0cRV-gBFEG8xaTl3egmG-iPJWz5X0/edit). I wish you all Goodluck.
