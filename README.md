@@ -29,7 +29,13 @@ You have been hired as a new Data Engineer at CoreDataEngineers. The CoreDataEng
      
      - /* Provide a table that shows the region for each sales rep along with their associated accounts. Your final table should include three columns: the region name, the sales rep name, and the account name. Sort the accounts alphabetically (A-Z) by account name. */
 
-Document the solutions to these questions using a well-detailed GitHub README file. Upload all scripts into a folder named `Scripts`. Inside the `Scripts` folder, create separate folders to store the Bash scripts and SQL scripts. Push all work to GitHub (do not push the CSV files). Ensure that you do not push directly to the master branch but instead merge to master via a pull request (you should know what to do). Additionally, create an architectural diagram of the ETL pipeline as requested by your manager.
+Document the solutions to these questions using a well-detailed GitHub README file. Upload all scripts into a folder named `Scripts`. Inside the `Scripts` folder, create separate folders to store the Bash scripts and SQL scripts. 
+
+Push all work to GitHub (do not push the CSV files). Ensure that you do not push directly to the master branch but instead merge to master via a pull request (you should know what to do). 
+
+Additionally, create an architectural diagram of the ETL pipeline as requested by your manager.
+
+**N.B**: Students will be picked at random to review what they have done. So, ensure you do not use AI, else your assignment will be marked as Zero.
 
 
 ## Group Assignment 
