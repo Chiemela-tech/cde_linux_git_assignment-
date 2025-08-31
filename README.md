@@ -39,10 +39,10 @@ Additionally, create an architectural diagram of the ETL pipeline as requested b
 
 
 ## Group Assignment 
-For this, you need to work in groups of three (you will be shared into groups). Design a PowerPoint with any insight that you got from the Posey database tables, do an exploratory analysis on the tables and come up with a Presentation for your manager. Give your group a name and choose a single person's GitHub account to document your insights (as images and text) and also to upload your PowerPoint files (all members are to contribute to the repository, through pull requests i.e each member should have different branches) 
+For this, you will work in groups (which are the already created Circle Groups by the CDE Team). Design a PowerPoint with any insight that you got from the Posey database tables, do an exploratory analysis on the tables and come up with a Presentation for your manager. Give your group a name and choose a single person's GitHub account to document your insights (as images and text) and also to upload your PowerPoint files (all members are to contribute to the repository, through pull requests i.e each member should have different branches) 
 
 
-**N.B** Both Personal and Group Assignments are due in 1 week and two days  (the **9th** of September 2025)
+**N.B** Both Personal and Group Assignments are due in 1 week and two days  (Wednesday, the **11th** of September 2025)
 Submit the personal assignment(for the email section, use the Email used to register for the Bootcamp) with this [Assignment Submission Link](https://docs.google.com/forms/d/1JCEsUXK1qYxQIl3xCcm3BbW3sYkx4GzBIPgPHLtSGw8/edit). 
 And the group with this [Group Submission Link](https://docs.google.com/forms/d/1JCEsUXK1qYxQIl3xCcm3BbW3sYkx4GzBIPgPHLtSGw8/edit)
 
