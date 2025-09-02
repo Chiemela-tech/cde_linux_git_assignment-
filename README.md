@@ -15,7 +15,7 @@ You have been hired as a new Data Engineer at CoreDataEngineers. The CoreDataEng
 
 3. Write a Bash script to move all CSV and JSON files from one folder to another folder named `json_and_CSV`. Use any JSON and CSV of your choice; the script should be able to work with one or more JSON and CSV files. 
 
-4. CoreDataEngineers is diversifying into the sales of goods and services. To understand the market, your organisation needs to analyse their competitor, `Parch and Posey`. Download the CSV file using this [link](https://we.tl/t-2xYLL816Yt) to your local PC. After downloading, do the following:
+4. CoreDataEngineers is diversifying into the sales of goods and services. To understand the market, your organisation needs to analyse their competitor, `Parch and Posey`. Download the CSV file using this [link](https://github.com/jdbarillas/parchposey/tree/master/data-raw) to your local PC. After downloading, do the following:
 
    - Write a Bash script that iterates over and copies each of the CSV files into a PostgreSQL database (name the database `posey`).
    
